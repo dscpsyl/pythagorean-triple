@@ -17,3 +17,6 @@ Again, refer back to the included video for why this happens.
 Just clone this repository and run the included script. It's literally less than 30 lines of code. You can figure it out. 
 
 # Contributors 
+<a href="https://twitter.com/SimYouLater28">
+     <img src="/.github/twitter.png">
+</a>
