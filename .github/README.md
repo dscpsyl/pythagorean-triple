@@ -9,6 +9,7 @@ Of course, there are limitations to this.
 
 1. The two numbers cannot be the same. This will give out a useless triple. 
 2. The second number cannot be even. This will also give out a useless triple. 
+3. This will not find every individual pythagorean triple. It will howver find at least one of every multiple. 
 
 Again, refer back to the included video for why this happens. 
 
